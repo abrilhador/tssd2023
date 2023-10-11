@@ -2,4 +2,4 @@
 
 The test dataset is evaluable [here](https://drive.google.com/drive/folders/1rgdrsVNROWX2eGFZyf_dCFtmkaFWuppw?usp=drive_link), and the soon source code will be made available for public access. 
 
-Stay tuned for updates on when these valuable resources will be released.
+Stay tuned for updates on when these resources will be released.
